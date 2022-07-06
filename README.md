@@ -10,6 +10,9 @@ Result:
 How Check Result in Action:
 1. Install SQL (MySQL) 
 https://dev.mysql.com/downloads/installer/
+
+Please Note: change your database url, username and password in aplication.properties.
+
 2. Install Postman 
 https://www.postman.com/downloads/
 3. Preferred IDE: Intellij
